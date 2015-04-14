@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "arp-parse": "*",
+    "arp-table": "*",
+    "bower": "*",
+    "mysql": "*",
+    "stream-filter": "*",
+    "swig": "^1.4.2",
+    "through": "*",
+    "ejs": "*",
+    "body-parser": "*"
+  }
+}
