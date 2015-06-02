@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "express": "*",
     "arp-parse": "*",
     "arp-table": "*",
     "bower": "*",
